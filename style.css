@@ -1,0 +1,47 @@
+header{
+
+    background-color: white;
+}
+
+.logo-container{
+
+    display: flex;
+    flex-direction: column;
+}
+
+#logo-ministero{
+
+    width: 20%;
+    height: auto;
+}
+
+#logo-volta{
+
+    width: 30%;
+    height: auto;
+    padding-left: 10px;
+}
+
+.navigationBar {
+
+    background-color: #a11825;
+    padding: 1.5% 5%;
+}
+
+.navigationBar p {
+
+    display: inline;
+    margin: 0% 2%;
+    color: #fff;
+}
+
+body{
+
+    background-color: #dde3ec;
+}
+
+.obermun-img{
+
+    width: 10px;
+    height: 10px;
+}

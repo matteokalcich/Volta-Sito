@@ -1,0 +1,17 @@
+
+Creare un documento html che riproduca il più similarmente possibile l'immagine sito_da_riprodurre.png allegata.
+Il file zip allegato contiene tutte le immagini.
+
+- strutturare il documento con stili css (non stili inline)
+- utilizzare i div per rappresentare i vari riquadri, con i float left e right
+- cliccando sulle le voci di menu deve comparire un alert che visualizzi la scritta del menu selezionato
+- tutte le immagini sono presenti nel file zip
+- colore di sfondo dell'intestazione: bianco
+- colore di sfondo del menu e dei titoli: #a11825
+- colore di sfondo sotto il menu: #dde3ec
+- colore di sfondo dei riquadri: bianco
+- colore del testo: nero
+- la stessa tipologia di elemento deve avere lo stesso stile
+
+Denominare la pagina cognome_nome.html
+Consegnare su classroom uno zip denominato cognome_nome.zip con la pagina html e tutte le immagini, in modo da avere una pagina completamente funzionante.
