@@ -28,11 +28,14 @@ header{
     padding: 1.5% 5%;
 }
 
-.navigationBar p {
+.navigationBar button {
 
     display: inline;
     margin: 0% 2%;
     color: #fff;
+    background-color: #a11825;
+    border: 0;
+    font-size: 20px;
 }
 
 body{
@@ -120,23 +123,26 @@ body{
     height: auto;
 }
 
+
 .row2 {
 
-    background-color: #182b48;
+    background-color: #dde3ec;
+    position: relative;
+    top: 390px;
+    left: 20px;
 
-    display: inline-flex;
-
-    flex-direction: row;
+    clear: left;
 }
 
 .festivalScienza {
 
+    position: relative;
+
+
     background-color: #fff;
-
-    width: 420px;
-    height: 340px;
-
-    
+    width: 490px;
+    height: 380px;
+    bottom: 350px;
 
 }
 
@@ -148,10 +154,16 @@ body{
 
 .racingTeam {
 
+    position: relative;
+
     background-color: #fff;
 
-    width: 420px;
-    height: 340px;
+    width: 490px;
+    height: 380px;
+
+    left: 550px;
+    bottom: 370px;
+
 
 }
 
@@ -161,22 +173,23 @@ body{
     height: auto;
 }
 
+
 .row3 {
 
-    display: inline;
 
     background-color: #dde3ec;
 }
 
 .direttaClassi {
 
+    position: relative;
     background-color: #fff;
     float: left;
     width: 320px;
-    height: 325px;
-    margin-left: 20px;
+    height: 380px;
     margin-right: 20px;
-    margin-top: 20px;
+    bottom: 310px;
+
 }
 
 #direttaClassi-img {
@@ -188,13 +201,15 @@ body{
 
 .diconoDiNoi {
 
+    position: relative;
+
     background-color: #fff;
     float: left;
     width: 320px;
-    height: 325px;
+    height: 380px;
+    bottom: 310px;
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 20px;
 }
 
 #diconoDiNoi-img {
@@ -205,13 +220,14 @@ body{
 
 .archivioIniziative {
 
+    position: relative;
+
     background-color: #fff;
     float: left;
     width: 320px;
-    height: 325px;
+    height: 380px;
+    bottom: 310px;
     margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
 }
 
 #archivioIniziative-img {
