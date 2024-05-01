@@ -40,8 +40,182 @@ body{
     background-color: #dde3ec;
 }
 
-.obermun-img{
+.row1{
 
-    width: 10px;
-    height: 10px;
+    display: inline;
+
+    background-color: #dde3ec;
+}
+
+.obermun{
+
+    background-color: #fff;
+    float:left;
+    width: 320px;
+    height: 325px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#obermun-img{
+
+    width: 100%;
+    height: auto;
+}
+
+.text{
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title h1{
+
+    color: #a11825;
+    font-size: 17px;
+
+}
+
+.description p{
+
+    color: #000000;
+    font-size: 13px;
+
+}
+
+.orizzontiPossibili {
+
+    background-color: #fff;
+    float: left;
+    width: 320px;
+    height: 325px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#orizzontiPossibili-img{
+
+    width: 100%;
+    height: auto;
+}
+
+.goodLuck {
+
+    background-color: #fff;
+    float: left;
+    width: 320px;
+    height: 325px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#goodLuck-img {
+
+    width: 100%;
+    height: auto;
+}
+
+.row2 {
+
+    background-color: #182b48;
+
+    display: inline-flex;
+
+    flex-direction: row;
+}
+
+.festivalScienza {
+
+    background-color: #fff;
+
+    width: 420px;
+    height: 340px;
+
+    
+
+}
+
+#festivalScienza-img {
+
+    width: 100%;
+    height: auto;
+}
+
+.racingTeam {
+
+    background-color: #fff;
+
+    width: 420px;
+    height: 340px;
+
+}
+
+#racingTeam-img {
+
+    width: 100%;
+    height: auto;
+}
+
+.row3 {
+
+    display: inline;
+
+    background-color: #dde3ec;
+}
+
+.direttaClassi {
+
+    background-color: #fff;
+    float: left;
+    width: 320px;
+    height: 325px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#direttaClassi-img {
+
+    width: 100%;
+    height: auto;
+}
+
+
+.diconoDiNoi {
+
+    background-color: #fff;
+    float: left;
+    width: 320px;
+    height: 325px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#diconoDiNoi-img {
+
+    width: 100%;
+    height: auto;
+}
+
+.archivioIniziative {
+
+    background-color: #fff;
+    float: left;
+    width: 320px;
+    height: 325px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#archivioIniziative-img {
+
+    width: 100%;
+    height: auto;
 }
